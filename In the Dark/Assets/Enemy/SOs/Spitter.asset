@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dd24bd3c8e290e47bac9e8c328da6eb, type: 3}
+  m_Name: Spitter
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1659672655251217735, guid: 6d374d75859f0ea41af47af8839e3449, type: 3}
+  weight: 5
+  maxHealth: 100
+  speed: 35
+  stopDistance: 5
+  projectileData: {fileID: 11400000, guid: 28e118ff97fc547449e31463b6d6ef89, type: 2}
+  fireCooldown: 1.5
+  attackDistance: 10

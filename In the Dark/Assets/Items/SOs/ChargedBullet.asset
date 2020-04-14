@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd0f714f7a275fb4bb6cb4699f27d863, type: 3}
+  m_Name: ChargedBullet
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5053647439893683004, guid: 9522d416f7a22fe40957f3dffd417aad, type: 3}
+  speed: 10
+  maxTravelDistance: 30
+  damage: 160
+  targetTypes: 00000000

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bd44b305f2d4664faa98558a0e9cc01, type: 3}
+  m_Name: AssassinGrave
+  m_EditorClassIdentifier: 
+  title: Grave of a Fallen Assassin
+  description: Casket Description
+  casketColor: {r: 0, g: 0.019420005, b: 0.21698111, a: 1}
+  spawnablePickups:
+  - itemData: {fileID: 11400000, guid: 1dfa2d5d520de2643b9529c6ca06c990, type: 2}
+    isRefill: 0
+  - itemData: {fileID: 11400000, guid: 1dfa2d5d520de2643b9529c6ca06c990, type: 2}
+    isRefill: 1
+  - itemData: {fileID: 11400000, guid: 0bca5c59d5d825945a8b3e2e05eca707, type: 2}
+    isRefill: 0
+  - itemData: {fileID: 11400000, guid: 0bca5c59d5d825945a8b3e2e05eca707, type: 2}
+    isRefill: 1
+  - itemData: {fileID: 11400000, guid: 32a6335ed41ed4e409b43a0bb8325893, type: 2}
+    isRefill: 0
+  - itemData: {fileID: 11400000, guid: 32a6335ed41ed4e409b43a0bb8325893, type: 2}
+    isRefill: 1

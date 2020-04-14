@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2ff0ce40f766984ab6f26660be154d6, type: 3}
+  m_Name: MelterAttack
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2599549382346760332, guid: 42c739f20f6f3fc4489b1b7623cd9826, type: 3}
+  speed: 0
+  maxTravelDistance: 0
+  damage: 10
+  targetTypes: 01000000
+  areaOfEffectRadius: 3
+  stunPercentage: 0.1

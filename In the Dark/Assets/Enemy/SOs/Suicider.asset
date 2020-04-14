@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8970dcceeb47e6a4e8090a6226dae88e, type: 3}
+  m_Name: Suicider
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1565842545818604465, guid: 6aaa3daebd8be8d4ab1aa44267339833, type: 3}
+  weight: 0
+  maxHealth: 100
+  speed: 35
+  stopDistance: 1
+  trapData: {fileID: 11400000, guid: c8411d43100897b4c938a0f5f865b23f, type: 2}
+  attackDistance: 1

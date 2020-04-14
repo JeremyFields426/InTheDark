@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aa3db5507786d848badc68bc19ca5fb, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  title: Remington 870
+  description: Weapon description
+  itemIcon: {fileID: 21300000, guid: 1e74d79c84bd01a49868ad0d3d6805a9, type: 3}
+  prefab: {fileID: 6832064754369155256, guid: b2435750a677b304a81f248275d90bb5, type: 3}
+  refillIcon: {fileID: 21300000, guid: 9a8cf149ad1a3c4409f96b9f478ea545, type: 3}
+  projectileData: {fileID: 11400000, guid: 7146db4357a4bf340adc16dbf1aa0673, type: 2}
+  startingAmmo: 10
+  maxMagCapacity: 5
+  fireCooldown: 0.75
+  muzzleFlashPrefab: {fileID: 394331201589875146, guid: d83faa4caf961b5478bc2d5b1bdc383e,
+    type: 3}
+  shootSound:
+    clip: {fileID: 8300000, guid: 6b954b0cad179484682ce85c16ac7554, type: 3}
+    volume: 0.5
+    pitch: 1
+  reloadSound:
+    clip: {fileID: 8300000, guid: 498be53f25a74ca4694a9b4af9f5a5b0, type: 3}
+    volume: 0.5
+    pitch: 1
+  numberOfProjectiles: 3
+  angleBetweenProjectiles: 10

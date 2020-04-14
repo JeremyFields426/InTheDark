@@ -1,0 +1,39 @@
+Art Left:
+
+
+Things to do:
+Weighted spawning (Make the amount of enemies progress slowly but make make difficult enemies show up more frequently)
+Point System
+Screen boundary
+Game over screen with info
+Revamped options menu
+Chainsaw
+Shovel
+Chainsaw Trap
+Rifle Trap
+
+
+Bug Fixes:
+Weapons go under grave
+Ammo count not right adjusted
+
+Casket Types:
+
+Blue (High Tier Points)
+Sniper
+Chainsaw Trap
+Autogun Trap
+Grenade Launcher
+Wingsticks
+
+Yellow (Mid Tier Points)
+Shotgun
+Health Kit
+Pistol
+Chainsaw
+
+Red (Low Tier Points)
+Burst Rifle
+Repair Kit
+Charge Rifle
+Grenades

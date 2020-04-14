@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bd44b305f2d4664faa98558a0e9cc01, type: 3}
+  m_Name: SoldierGrave
+  m_EditorClassIdentifier: 
+  title: Grave of a Fallen Soldier
+  description: Casket Description
+  casketColor: {r: 0.3490566, g: 0, b: 0, a: 1}
+  spawnablePickups:
+  - itemData: {fileID: 11400000, guid: a50b106235b4aff4994bb3811eba7da7, type: 2}
+    isRefill: 0
+  - itemData: {fileID: 11400000, guid: a50b106235b4aff4994bb3811eba7da7, type: 2}
+    isRefill: 1
+  - itemData: {fileID: 11400000, guid: 53a0aa843fb1a6c4dbd112be05243c29, type: 2}
+    isRefill: 0
+  - itemData: {fileID: 11400000, guid: 53a0aa843fb1a6c4dbd112be05243c29, type: 2}
+    isRefill: 1
+  - itemData: {fileID: 11400000, guid: 9ad9bba1b5b683649acc68a4efa3e582, type: 2}
+    isRefill: 0
+  - itemData: {fileID: 11400000, guid: 9ad9bba1b5b683649acc68a4efa3e582, type: 2}
+    isRefill: 1
+  - itemData: {fileID: 11400000, guid: 736a5e82b14d70745a6dba5f54fc2214, type: 2}
+    isRefill: 0
+  - itemData: {fileID: 11400000, guid: 736a5e82b14d70745a6dba5f54fc2214, type: 2}
+    isRefill: 1
